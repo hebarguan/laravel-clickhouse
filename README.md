@@ -13,7 +13,7 @@ $ composer require itstably/laravel-clickhouse
 
 Then add the code above into your config/app.php file providers section
 ```php
-ItStably\LaravelClickHouse\ClickHouseServiceProvider::class,
+Hebarguan\LaravelClickHouse\ClickHouseServiceProvider::class,
 ```
 And add new connection into your config/database.php file. Something like this:
 ```php

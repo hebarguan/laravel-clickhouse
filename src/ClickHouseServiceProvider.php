@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ItStably\LaravelClickHouse;
+namespace Hebarguan\LaravelClickHouse;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\DatabaseManager;
