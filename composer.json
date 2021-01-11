@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Hebarguan\\LaravelClickHouse\\": "src/"
+      "ItStably\\LaravelClickHouse\\": "src/"
     }
   },
   "autoload-dev": {

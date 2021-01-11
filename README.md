@@ -8,12 +8,12 @@ Eloquent model for ClickHouse
 
 ## Installation
 ```sh
-$ composer require itstably/laravel-clickhouse
+$ composer require hebarguan/laravel-clickhouse
 ```
 
 Then add the code above into your config/app.php file providers section
 ```php
-Hebarguan\LaravelClickHouse\ClickHouseServiceProvider::class,
+Itstably\LaravelClickHouse\ClickHouseServiceProvider::class,
 ```
 And add new connection into your config/database.php file. Something like this:
 ```php
